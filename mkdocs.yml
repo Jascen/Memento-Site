@@ -3,7 +3,7 @@ site_name: "Ultima: Memento"
 # Repository
 repo_name: Ultima-Memento
 repo_url: https://github.com/Jascen/ultima-memento
-edit_uri: https://github.com/Jascen/Memento-Site
+edit_uri: https://github.com/Jascen/Memento-Site/tree/main/docs
 
 extra:
   social:
