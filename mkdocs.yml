@@ -1,0 +1,100 @@
+site_name: "Ultima: Memento"
+
+# Repository
+repo_name: Ultima-Memento
+repo_url: https://github.com/Jascen/ultima-memento
+edit_uri: https://github.com/Jascen/Memento-Site
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/mu7aAbRyJf
+    - icon: fontawesome/brands/github
+      link: https://github.com/Jascen/ultima-memento
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  logo: assets/images/memento-m.png
+  favicon: assets/images/memento-m.png
+  features:
+    # - header.autohide
+    - announce.dismiss
+    - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+  palette: 
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - md_in_html
+  - pymdownx.snippets
+  - toc:
+      permalink: true
+
+not_in_nav: |
+  /setup/online-server-info.md
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Online Play: setup/online-play.md
+    - Client:
+      - Desktop: setup/desktop-client.md
+      - Mobile: setup/mobile-client.md
+    - Offline Play: setup/offline-play.md
+  - Player Guide:
+    - Welcome: guide/welcome.md
+    - Gameplay Basics: guide/basics.md
+    - Town: guide/town.md
+    - The Art of Living: guide/art-of-living.md
+    - Playing the Game: guide/playing-the-game.md
+    - Things to Do:
+      - Achievements: guide/achievements.md
+      - Crafting: guide/crafting.md
+      - Harvesting: guide/harvesting.md
+      - Home Ownership: guide/home-ownership.md
+      - Questing: guide/questing.md
+      - Ships: guide/ships.md
+    - Conclusion: guide/conclusion.md
+    - Appendix:
+      - Skill Descriptions: guide/appendix-skill-descriptions.md
+      - Item Properties: guide/appendix-item-properties.md
+      - Game Clients: guide/appendix-game-clients.md
+  - Troubleshooting:
+    - In game: issues/in-game.md

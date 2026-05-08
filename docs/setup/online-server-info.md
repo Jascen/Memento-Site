@@ -1,0 +1,5 @@
+- Name: `Memento`
+- UO Server Address: `uo-memento.com`
+- Port: `2593`
+- Client Version: `7.0.15.1`
+- Use Encryption: `No`
