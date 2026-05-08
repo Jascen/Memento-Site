@@ -11,9 +11,13 @@ Ultima: Memento keeps Mobile users in mind when designing interfaces.
 
 ## Server Information
 --8<-- "docs/setup/online-server-info.md"
-- File Download Server Address: (see [Data Package](#data-package))
+- File Download Server Address:
+```
+github.com/Jascen/ultima-memento-assets/releases/download/data-files/data-files.zip
+```
+	- Port: `80`
 
-## Data Package
+## Data Package (alternates)
 - Upload to Dropbox (and append `&dl=1` to the URL)
 - Copy the files directly to your phone
 - Use a local file server (like Mongoose)
