@@ -105,4 +105,5 @@ nav:
       - Item Properties: guide/appendix-item-properties.md
       - Game Clients: guide/appendix-game-clients.md
   - Troubleshooting:
+    - Client: issues/client.md
     - In game: issues/in-game.md
