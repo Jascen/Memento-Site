@@ -58,6 +58,7 @@ theme:
     code: Roboto Mono
 
 plugins:
+  # - offline
   - search
 
 markdown_extensions:
