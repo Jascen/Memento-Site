@@ -80,6 +80,9 @@ not_in_nav: |
 
 nav:
   - Home: index.md
+  - Features:
+    - New Game+:
+      - Avatar's Ascent: features/avatars-ascent.md
   - Getting Started:
     - Online Play: setup/online-play.md
     - Client:
