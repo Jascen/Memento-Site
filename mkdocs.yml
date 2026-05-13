@@ -84,6 +84,7 @@ nav:
     - New Game+:
       - Avatar's Ascent: features/avatars-ascent.md
       - Temptations: features/temptations.md
+    - Quality of Life: features/quality-of-life.md
   - Getting Started:
     - Online Play: setup/online-play.md
     - Client:
