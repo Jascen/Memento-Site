@@ -9,8 +9,7 @@
 	- `x` is generally considered a negative
 	- `-` is generally neutral or it is up to interpretation
 
-!!! tip "Viewing Temptations"
-	You may use the `[Temptations` command on yourself or another player to see their Temptations
+!!! tip "You may use the `[Temptations` command on yourself or another player to see their Temptations"
 
 ## What does each Temptation do?
 

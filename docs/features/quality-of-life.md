@@ -42,11 +42,10 @@
 	- AOE focused templates should focus on increasing `Spawn Amount` (impacts amount of mobs & required kills per level)
 	- Single-target focused templates should focus on increasing `Monster Difficulty` (impacts health/skills/damage)
 
-??? tip "Demonstration"
+??? tip "Configuration Demonstration"
 	![Champion spawns configuration](../assets/gifs/demo-champion-spawn.gif)
 
 ## Secondary Skills
-All Gathering and Crafting skills can be raised on your character without impacting your skill cap
+All *Gathering* and *Crafting* skills can be raised on your character without impacting your skill cap
 
-!!! warning "Exceptions"
-	Due to their treasurehunting functionality, *Cartography* and *Seafaring* have been excluded from Secondary Skills
+!!! warning "Due to their treasurehunting functionality, *Cartography* and *Seafaring* are considered Primary Skills"

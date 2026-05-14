@@ -22,8 +22,7 @@ If you have an item that is used by both hands, then it will display an equipmen
 Equipment can have magical properties applied to them. Some may be able to unleash a magical enchantment. These can be recognized by hovering over the item. If you see a magical spell name, and an amount of charges, then that item would have that spell imbued in it. Some of these items can be used to cast the spell. Other items may require you to single click and select the "Magic" context menu. If you choose the "Examine" context menu, you should get a description of the spell it can cast.
 
 
-!!! tip ""
-    [Item Properties](appendix-item-properties.md) has a list of all magical attributes
+!!! tip "[Item Properties](appendix-item-properties.md) has a list of all magical attributes"
 
 Not all equipment items will have all of the listed item properties available to them. For example, a magical harp will not have a spell channeling property like a weapon would. This is because spell channeling has to do with weapons staying wielded during spell casting.
 ## Followers

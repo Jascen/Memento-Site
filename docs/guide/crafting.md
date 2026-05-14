@@ -38,5 +38,4 @@ To craft an item, you can press the number button next to MAKE, or the number bu
 
 As you craft items, your skill will increase in that trade. The better your skill, the more items you can make. Your skill will also determine the resources you can use and the success chance at creating items, especially of exceptional quality.
 
-!!! tip ""
-	You can set a container where crafted items go by default. This is in the paperdoll's HELP section under SETTINGS
+!!! tip "You can set a container where crafted items go by default. This is in the paperdoll's HELP section under SETTINGS"

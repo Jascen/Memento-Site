@@ -1,8 +1,8 @@
 ## Bank Half Usable
-??? "Example"
+??? warning "Demonstration"
 	![Only part of the container is used](../assets/gifs/bug-containers-txt.gif)
 
-!!! tip "Using a newer TazUO"
+!!! warning "Using a newer TazUO?"
 	Taz added support for loading `containers.txt` from the *Data Files* folder. This location is preferred.
 
 - If your bank looks like correct but behaves like a smaller container, you need to update your `containers.txt`
