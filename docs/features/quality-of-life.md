@@ -26,7 +26,7 @@
 		- *Unidentified Items*
 		- *Weapons*
 
-??? tip "Demonstration"
+??? example "Demonstration"
 	![Organize functioning](../assets/gifs/demo-organize.gif)
 
 ### `Rename`
@@ -42,13 +42,13 @@
 - AOE focused templates should focus on increasing `Spawn Amount` (impacts amount of mobs & required kills per level)
 - Single-target focused templates should focus on increasing `Monster Difficulty` (impacts health/skills/damage)
 
-??? tip "Configuration Demonstration"
+??? example "Configuration Demonstration"
 	![Champion spawns configuration](../assets/gifs/demo-champion-spawn.gif)
 
 ### Gathering
 #### Auto-Harvest
 Targeting a node once will automatically retarget it until it is emptied.
-??? tip "Demonstration"
+??? example "Demonstration"
 	![Target once to empty nodes](../assets/gifs/demo-auto-harvest.gif)
 
 #### Auto-Separating
@@ -58,7 +58,7 @@ A skinning knife is the only blade you may use from your backpack.
 
 !!! tip "When equipped, the knife will automatically skin corpses you open."
 
-??? tip "Demonstration"
+??? example "Demonstration"
 	![Skinning knife on paperdoll auto skins corpses on open](../assets/gifs/demo-auto-skinning.gif)
 
 #### Glistening Ore Veins
@@ -66,7 +66,7 @@ Rich deposits of ore may be found randomly spawned throughout the world.
 
 !!! tip "The node may be harvested by using a shovel and targeting it or double-clicking it."
 
-??? tip "Demonstration"
+??? example "Demonstration"
 	![Harvest a glistening ore vein](../assets/gifs/demo-glistening-ore.gif)
 
 #### Rich Trees
@@ -74,7 +74,7 @@ While lumberjacking trees, players may detect a nearby tree that is rich in wood
 
 !!! tip "The node may be harvested by using an axe and targeting it or double-clicking it."
 
-??? tip "Demonstration"
+??? example "Demonstration"
 	![Harvest a tree sparkle](../assets/gifs/demo-rich-trees.gif)
 
 ## Secondary Skills
