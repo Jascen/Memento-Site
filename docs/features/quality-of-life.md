@@ -33,11 +33,37 @@
 - `[Rename` allows players to rename any container that they own
 
 ## Gameplay loop
+### Crafting
+#### Exceptional Bonuses
+Exceptionally crafted equipment are minorly magical.
+
+#### Improved Gains
+Stop accruing non-basic resources. Higher tier resources offer more chances to gain skill.
+
+#### Multi-crafting
+Create a specific number of items in a crafting session with a single click.
+
+??? example "Demonstration"
+	![The crafting session gump](../assets/gifs/demo-bulk-crafting.gif)
+
+#### New Crafting Types
+- **Slime/Ooze Alchemy** allows you to create slime-based summons or disperse ooze on the floor, which deals damage over time
+- **Druidic Alchemy** allows you to craft good-natured utility potions
+- **Bonecrafting** allows you to craft armor using bone resources
+- **Lapidary** allows you to craft weapons and armor using gem-oriented resources
+- **Stitching** allows you to craft weapons and armor using skins of different creatures
+- **Witchery/Necrotic Alchemy** allows you to craft evil-natured utility potions
+
+#### Skill Craft List
+Players can quickly see which items they can craft for skill gains, and how high the item will take them.
+
+??? example "Demonstration"
+	![The skill craft list gump](../assets/gifs/demo-skill-craft-list.gif)
 
 ### Dungeoneers
 #### Champion Spawns
 - Configurable difficulty champion spawns allow a sense of progression and challenge
-	- Rewards increase as you increase `Spawn Amount` and `Monster Difficulty`
+- Rewards increase as you increase `Spawn Amount` and `Monster Difficulty`
 - All kinds of players can enjoy this content (Casual players, group play, or challenging solo play)
 - AOE focused templates should focus on increasing `Spawn Amount` (impacts amount of mobs & required kills per level)
 - Single-target focused templates should focus on increasing `Monster Difficulty` (impacts health/skills/damage)
@@ -52,6 +78,7 @@ Targeting a node once will automatically retarget it until it is emptied.
 	![Target once to empty nodes](../assets/gifs/demo-auto-harvest.gif)
 
 #### Auto-Separating
+Refining a stack of resources will automatically check for skill as-if you separated it and processed it one at a time
 
 #### Auto-Skinning
 A skinning knife is the only blade you may use from your backpack.
@@ -77,7 +104,16 @@ While lumberjacking trees, players may detect a nearby tree that is rich in wood
 ??? example "Demonstration"
 	![Harvest a tree sparkle](../assets/gifs/demo-rich-trees.gif)
 
+## Improved Runebooks
+Runebook gump has been rewritten to provide better accessibility and management
+
+??? example "Demonstration"
+	![New runebook gump](../assets/gifs/demo-updated-runebook.gif)
+
 ## Secondary Skills
 All *Gathering* and *Crafting* skills can be raised on your character without impacting your skill cap
 
 !!! warning "Due to their treasurehunting functionality, *Cartography* and *Seafaring* are considered Primary Skills"
+
+??? example "Demonstration"
+	![Secondary Skill values don't show up when you mark Show Real](../assets/gifs/demo-secondary-skills.gif)
