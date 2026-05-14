@@ -113,3 +113,4 @@ nav:
   - Troubleshooting:
     - Client: issues/client.md
     - In game: issues/in-game.md
+  - Contributing: contributing/index.md
