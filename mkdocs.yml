@@ -58,8 +58,9 @@ theme:
     code: Roboto Mono
 
 plugins:
-  # - offline
   - search
+  - offline:
+      enabled: !ENV [MEMENTO_SITE_OFFLINE, false]
 
 markdown_extensions:
   - attr_list
