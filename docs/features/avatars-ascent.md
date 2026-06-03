@@ -1,6 +1,6 @@
 # The Avatar's Ascent
 
-In this roguelite game mode, characters will experience a separate progression track, collect a new currency (“Coins”), and spend aforementioned currency on permanent upgrades.
+In this roguelite game mode, characters will experience a separate progression track, collect a new currency (“Coins”), and spend currency on permanent upgrades.
 
 ![Avatar info gump](../assets/images/avatar-system.png)
 
