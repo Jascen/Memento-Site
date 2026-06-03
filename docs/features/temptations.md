@@ -26,11 +26,11 @@
 ### Strongest Avenger
 - Pants go in the *Inner Leg* equipment slot instead of the *Outer Leg* slot (where leg armor goes)
 - Once caster monsters engage this character, the delay between casting and targeting is dramatically reduced
-- *Note:* The original Memento release nerfed caster mobs by forcing them to wait twice the delay after they cast a spell. This reverses that nerf
+- *Note:* In Memento, monsters take twice as long to cast spells as Players do. This temptation removes the casting handicap placed on Mobs.
 
 ### It's dangerous to go alone! Take this.
 - Enables permanent death mode for the character
- - *Note:* This is not the same as *The Avatar's Ascent*
+	- *Note:* This is not the same as *The Avatar's Ascent*
 - Your stat gain cooldown is 5 mins
 - You are ~25% more likely to get a skill gain
 - *Note:* This Temptation is brutal. Most players will NOT want to do this. Dying means your character is permanently a ghost (and should probably be deleted). Your house/boat are left in the world, your corpse lasts 24 hours, and your bankbox is completely gone.
