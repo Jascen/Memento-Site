@@ -22,6 +22,9 @@ There are also coffers in most shops. You can use these coffers, and if you have
 
 Dungeons may have a pedestal with a box or bag upon it. These will require you to use your stealing skill on them to see if you can take them off the pedestal. The contents may be well worth the danger of the potential traps that could be sprung. You will come across various accessible containers in the dungeon, and these can be stolen in the same fashion.
 
+!!! tip "Watch out for traps!"
+	Players must also be proficient in the snooping skill so they are nimble enough to avoid any traps
+
 ## Food & Drink
 
 ![10 loaves of bread on the ground](../assets/images/art-of-living-loaves-bread-ground.png)
