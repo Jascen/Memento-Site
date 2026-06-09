@@ -23,5 +23,5 @@ The Memento team firmly believes that our community really levels-up the R&R exp
 
 ## Links
 - Join the [Memento Discord](https://discord.gg/mu7aAbRyJf)
-- Check out the [UOdyessy Subreddit](https://www.reddit.com/r/uodyssey/)
+- Check out the [UOdyssey Subreddit](https://www.reddit.com/r/uodyssey/)
 - Report issues in Discord or [Github](https://github.com/Jascen/ultima-memento/issues)
