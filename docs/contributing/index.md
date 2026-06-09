@@ -6,6 +6,7 @@
 This is an Open Source passion project whose originating source has passed through many hands. Without our predecessors, Memento would have never been born.
 
 - Thank you, `Djeryv`, for beginning your work on *Dawn of Ultima* way back in 2012, sticking with it for so many years, and choosing to open source it for the benefit of others.
+- Thank you, `Carl Hamilton`, for sharing your *Darkshard* maps with the UO community.
 - Thank you, `Mangar`, for working with Djeryv on *Ruins & Riches* (R&R), which ultimately paved the way for monster races!
 - Thank you, `Xork`, for *Adventures of Akalabeth* (AoA), your blog, your Player Guide, and your (immensely understated) code de-duping efforts.
 
