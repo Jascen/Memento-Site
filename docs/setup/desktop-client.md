@@ -10,7 +10,19 @@
 	Download the same package, but smaller: [(1.3gb) Ultima-Memento.7z](https://drive.google.com/file/d/19jzs09O8MLc8BRSJoecR_skV8rDyCmEp/view?usp=sharing)
 
 ## Install Package
-- Unzip the file somewhere (Typical install location is `C:\Ultima-Memento\Client`)
+- Unzip the file at your root `C:\`
+
+??? warning "Want to install elsewhere?"
+	If you want to deviate from the default install location (`C:\Ultima-Memento\Client`), you may need to adjust the provided profiles.
+
+	- Open the TazUO Launcher
+	- Click the dropdown and select `[Edit Profile]`
+	- Select the `Memento` (and/or `Testing`) profile
+	- Update the `UO Directory` path
+		- Old value: `C:\Ultima-Memento\Client\Data Files`
+		- New value: `{{YOUR_PATH_CHOICE}}\Ultima-Memento\Client\Data Files`
+	- Press the `Save` button
+
 - Open the `Client\TazUO Launcher` folder
 - Run `TazUO Launcher.exe`
 - Select the `Memento` profile to join the live-hosted server
