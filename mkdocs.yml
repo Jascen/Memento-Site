@@ -82,6 +82,7 @@ not_in_nav: |
 
 nav:
   - Home: index.md
+  - <span style="color:var(--md-code-hl-color); font-weight:bold;">Play Now!</span>: setup/desktop-client/#download-package
   - Features:
     - New Game+:
       - Avatar's Ascent: features/avatars-ascent.md
