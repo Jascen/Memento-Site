@@ -83,17 +83,18 @@ not_in_nav: |
 nav:
   - Home: index.md
   - <span style="color:var(--md-code-hl-color); font-weight:bold;">Play Now!</span>: setup/desktop-client/#download-package
-  - Features:
-    - New Game+:
-      - Avatar's Ascent: features/avatars-ascent.md
-      - Temptations: features/temptations.md
-    - Quality of Life: features/quality-of-life.md
   - Getting Started:
     - Online Play: setup/online-play.md
     - Client:
       - Desktop: setup/desktop-client.md
       - Mobile: setup/mobile-client.md
     - Offline Play: setup/offline-play.md
+  - Features:
+    - New Game+:
+      - Avatar's Ascent: features/avatars-ascent.md
+      - Custom Races: features/custom-races.md
+      - Temptations: features/temptations.md
+    - Quality of Life: features/quality-of-life.md
   - Player Guide:
     - Welcome: guide/welcome.md
     - Gameplay Basics: guide/basics.md
