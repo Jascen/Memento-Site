@@ -112,9 +112,14 @@ All *Gathering* and *Crafting* skills can be raised on your character without im
 		- *Trinkets & Offhands* - Trinkets, Instruments, Torches, Lanterns
 		- *Unidentified Items*
 		- *Weapons*
+	- *Note*: `[OrganizeMe` will automatically target your main backpack
 
 ??? example "Demonstration"
 	![Organize functioning](../assets/gifs/demo-organize.gif)
 
 ### `Rename`
 - `[Rename` allows players to rename any container that they own
+
+### `UseSkill`
+- `[UseSkill` allows players to add a macro to activate a skill
+	- *Note*: This is generally helpful for MobileUO users
