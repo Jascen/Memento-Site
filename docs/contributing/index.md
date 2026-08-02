@@ -20,9 +20,9 @@ If you'd like to help keep Memento going, **please consider donating**:
 [https://buymeacoffee.com/uomemento](https://buymeacoffee.com/uomemento)
 
 ## Engage
-The Memento team firmly believes that our community really levels-up the R&R experience. We would love to have you join us in the [Memento Discord](https://discord.gg/mu7aAbRyJf) to hang out, ask questions, make suggestions, or report issues!
+The Memento team firmly believes that our community really levels-up the R&R experience. We would love to have you join us in the [Memento Discord]({{discord_invite_url}}) to hang out, ask questions, make suggestions, or report issues!
 
 ## Links
-- Join the [Memento Discord](https://discord.gg/mu7aAbRyJf)
+- Join the [Memento Discord]({{discord_invite_url}})
 - Check out the [UOdyssey Subreddit](https://www.reddit.com/r/uodyssey/)
-- Report issues in Discord or [Github](https://github.com/Jascen/ultima-memento/issues)
+- Report issues in Discord or [Github]({{github_url}}/issues)

@@ -1,13 +1,13 @@
 # Desktop Client
 
 !!! warning "Custom Data Files"
-	Ultima: Memento does not use the standard UO data files. All custom files (including container.txt) are included in our packages below. You can also download them directly from [GitHub](https://github.com/Jascen/ultima-memento-assets/releases/download/data-files/data-files.zip)
+	Ultima: Memento does not use the standard UO data files. All custom files (including container.txt) are included in our packages below. You can also download them directly from [GitHub]({{github_assets_url}})
 
 ## Download Package
-- Download the client and data files: [(1.8gb) Ultima-Memento.zip](https://drive.google.com/file/d/1ZyIFmwQ4d_wDhF0UtPgwMYEL0PWFwuvc/view?usp=sharing)
+- Download the client and data files: [(1.8gb) Ultima-Memento.zip]({{client_download_link}})
 
 ??? tip "Have 7zip?"
-	Download the same package, but smaller: [(1.3gb) Ultima-Memento.7z](https://drive.google.com/file/d/19jzs09O8MLc8BRSJoecR_skV8rDyCmEp/view?usp=sharing)
+	Download the same package, but smaller: [(1.3gb) Ultima-Memento.7z]({{client_download_link_7z}})
 
 ## Install Package
 - Unzip the file at your root `C:\`
@@ -33,7 +33,7 @@
 
 ## Mac users
 
-- Download Memento's custom [Data Files](https://github.com/Jascen/ultima-memento-assets/releases/download/data-files/data-files.zip)
+- Download Memento's custom [Data Files]({{github_assets_url}})
 	- Unzip this in a ".../Memento/Client/Data Files" location
 - Download the TazUO Launcher for Mac from the [TazUO website](https://tazuo.org/introduction/how-to-install/#installation-guide)
 - Launch the TazUO Launcher and add a new server profile

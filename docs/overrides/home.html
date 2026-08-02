@@ -9,8 +9,13 @@
 				<img src="assets/images/memento-title.png" alt="" draggable="false">
 			</div>
 			<div class="mdx-actions">
-				<a class="mdx-button mdx-button--primary" href="setup/desktop-client/#download-package">Click here to Play Now!</a>
-				<a class="mdx-button mdx-button--primary" href="https://discord.gg/mu7aAbRyJf" target="_blank" rel="noopener">Join Discord</a>
+				{% if config.extra.is_offline %}
+				<a class="mdx-button mdx-button--primary" href="{{config.extra.play_now_link_offline}}">Click here to Play Now!</a>
+				<a class="mdx-button mdx-button--primary" href="{{config.extra.discord_invite_url}}" target="_blank" rel="noopener">Join Discord</a>
+				{% else %}
+				<a class="mdx-button mdx-button--primary" href="{{config.extra.play_now_link}}">Click here to Play Now!</a>
+				<a href="{{config.extra.discord_invite_url}}" target="_blank" rel="noopener"><img style="vertical-align: middle; border-radius: 0.65rem;" src="https://discord.com/api/guilds/{{config.extra.discord_guild_id}}/widget.png?style=banner2" alt="Join Discord"/></a>
+				{% endif %}
 			</div>
 			<div class="mdx-hero__content">
 				<div class="mdx-cards" role="list">

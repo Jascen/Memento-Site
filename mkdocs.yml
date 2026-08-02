@@ -2,15 +2,24 @@ site_name: "Ultima: Memento"
 
 # Repository
 repo_name: Ultima-Memento
-repo_url: https://github.com/Jascen/ultima-memento
+repo_url: &github_url https://github.com/Jascen/ultima-memento
 edit_uri: https://github.com/Jascen/Memento-Site/tree/main/docs
 
 extra:
+  client_download_link: https://drive.google.com/file/d/1ZyIFmwQ4d_wDhF0UtPgwMYEL0PWFwuvc/view?usp=sharing
+  client_download_link_7z: https://drive.google.com/file/d/19jzs09O8MLc8BRSJoecR_skV8rDyCmEp/view?usp=sharing
+  discord_guild_id: 1269722393757225033
+  discord_invite_url: &discord_invite_url https://discord.gg/mu7aAbRyJf
+  github_url: *github_url
+  github_assets_url: https://github.com/Jascen/ultima-memento-assets/releases/download/data-files/data-files.zip
+  is_offline: &is_offline !ENV [MEMENTO_SITE_OFFLINE, false]
+  play_now_link: &play_now_link setup/desktop-client/#download-package
+  play_now_link_offline: setup/desktop-client.html#download-package
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/mu7aAbRyJf
+      link: *discord_invite_url
     - icon: fontawesome/brands/github
-      link: https://github.com/Jascen/ultima-memento
+      link: *github_url
 
 theme:
   name: material
@@ -59,8 +68,9 @@ theme:
 
 plugins:
   - search
+  - macros
   - offline:
-      enabled: !ENV [MEMENTO_SITE_OFFLINE, false]
+      enabled: *is_offline
 
 markdown_extensions:
   - attr_list
@@ -82,7 +92,7 @@ not_in_nav: |
 
 nav:
   - Home: index.md
-  - <span style="color:var(--md-code-hl-color); font-weight:bold;">Play Now!</span>: setup/desktop-client/#download-package
+  - <span style="color:var(--md-code-hl-color); font-weight:bold;">Play Now!</span>: *play_now_link
   - Getting Started:
     - Online Play: setup/online-play.md
     - Client:
