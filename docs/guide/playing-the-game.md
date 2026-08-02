@@ -77,7 +77,7 @@ When you purchase one, you will be given them in a cage. Use the cage somewhere 
 
 Almost all creature followers can be brought to the stables if you want them to have a safe place to stay. The stable master will charge you a weekly gold fee to do so. You can claim your pets or see which pets are in the stable currently. If you ask them about riding, they will show you the type of creatures that can be ridden.
 
-If your taming is high enough, you may want a tamed creature bonded to you. Bonded creatures are able to be resurrected, if they meet an untimely end. To bond a pet, simply feed them immediately after taming, and then again after 7 days of real time. If you succeed, you will get a message that they are bonded to you.
+If your taming is high enough, you may want a tamed creature bonded to you. Alternatively, this will happen automatically when the pet reaches level 3. Bonded creatures are able to be resurrected, if they meet an untimely end. To bond a pet, simply feed them immediately after taming, and then again after 7 days of real time. If you succeed, you will get a message that they are bonded to you.
 
 There are also unique creatures that have a set of rules that do not apply to them like regular creatures. Some of these cannot be stabled, for example. Any such followers will have these details explained to you when you discover them.
 
