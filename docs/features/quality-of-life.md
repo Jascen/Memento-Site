@@ -71,6 +71,9 @@ While lumberjacking trees, players may detect a nearby tree that is rich in wood
 ??? example "Demonstration"
 	![Harvest a tree sparkle](../assets/gifs/demo-rich-trees.gif)
 
+#### Smart Targeting
+Stop worrying about pixel perfect clicking. Use your tool and target yourself to harvest the nearest viable target.
+
 ## Improved Runebooks
 Runebook gump has been rewritten to provide better accessibility and management
 
