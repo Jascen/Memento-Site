@@ -51,3 +51,7 @@ In this roguelite game mode, characters will experience a separate progression t
 	- Savage Race, Monster Races, and Fugitive Mode
 	- Permanent Facet Discovery
 	- Permanent Recipe Retention
+
+## Monitor your growth
+- Keep track of your performance over time
+![Avatar Statistics gump](../assets/images/avatar-statistics.png)
