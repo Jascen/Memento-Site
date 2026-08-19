@@ -176,7 +176,7 @@ This allows you to better tune your character to ensure you get the ability valu
 ## Status Icons
 ![The player's Status gump](../assets/images/basics-status-gump-figure2.png)
 
-During play, various effects will be applied to your character: some positive, some negative. You can monitor these effects by using the status icon bar. Select the blue button in the upper left of your character information window to open this icon bar. Like most gumps, close this bar with a right click.
+During play, various effects (buffs and debuffs) will be applied to your character: some positive, some negative. You can monitor these effects by using the status icon bar. Select the blue button in the upper left of your character information window to open this icon bar. Like most gumps, close this bar with a right click.
 
 
 ![The player's buff bar](../assets/images/basics-buff-bar-figure.png)
