@@ -2,19 +2,26 @@
 ## Hotkeys
 There is a bar at the top that provides functions (with equivalent shortcut keys) described below:
 
-**Map** – Pressing `ALT + R` will open a mini-map to help you navigate. Pressing it twice will make it slightly larger.
+*Map*
+:	Pressing `ALT + R` will open a mini-map to help you navigate. Pressing it twice will make it slightly larger.
 
-**Character** – Pressing `ALT + P` will open your paperdoll.
+*Character*
+:	Pressing `ALT + P` will open your paperdoll.
 
-**Inventory** – Pressing `ALT + I` will open your backpack.
+*Inventory*
+:	Pressing `ALT + I` will open your backpack.
 
-**Journal** – Pressing `ALT + J` will open the journal.
+*Journal*
+:	Pressing `ALT + J` will open the journal.
 
-**Chat** – This function does not work. Use the chat system in the paperdoll's HELP menu instead.
+*Chat*
+:	This function does not work. Use the chat system in the paperdoll's HELP menu instead.
 
-**Help** – This is the same as the HELP button on the paperdoll.
+*Help*
+:	This is the same as the HELP button on the paperdoll.
 
-**World Map** – This will open the more useful customizable navigation map.
+*World Map*
+:	This will open the more useful customizable navigation map.
 
 You can learn about other commands in the HELP section of the paperdoll. Many of these commands are executed from the bottom bar where you can enter the command and press ENTER. Most of these commands will be prefixed with a "[". So if you wanted to chat, for example, you would type "**[chat**" and press ENTER.
 
