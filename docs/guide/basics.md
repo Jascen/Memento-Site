@@ -92,45 +92,32 @@ There are two blue buttons on the lower left. If you double click the first one,
 ### Help Button
 The HELP button will open a detailed window of options and information. Each section is described briefly below:
 
-**AFK** – Sets your character as "away from keyboard". It only indicates to others in multiplayer that you are away.
+Actions
+:	A list of ad-hoc actions that Players may wish to perform
 
-**Chat** – This opens the chat window, where you can message other players.
+Bars
+:	A list of bar-type gumps (windows) that Players may find helpful to keep on screen at all times
 
-**Conversations** – When you talk to NPCs (non-player characters), some of their conversations will be saved here for future reference.
+Gumps
+:	A list of (windows) that Players may want to open from time to time
 
-**Corpse Clear** – You may have suffered multiple deaths, and your corpses litter the land. This will clear them away from boats and land.
+Magic Toolbars
+:	An automatically built list of bar-type gumps (windows) that allow casting spells.
 
-**Corpse Search** – This can help you if you meet an untimely end and you go back to gather your belongings.
+Preferences
+:	Per-character options that are generally only cosmetic; these options may change how the game looks or sounds to the Player
 
-**Emote** – This launches a window that allows you to choose character actions such as sneezing or laughing.
+Quests
+:	The legacy and new Quest log
 
-**Library** – You will discover books and scrolls with important information. Reading them may store them here for future reference. You will begin the game with a few books in your library.
+Settings
+:	Per-character options that usually change how the game plays. If you wish something worked differently, check here first.
 
-**Magic Toolbars** – These are handy icon bars for spell casters. They are customizable and make using magic easier.
+Stuck in World
+:	An emergency parachute that delivers you to a known working location. Warning: there are limited uses per day!
 
-**Moongate Search** – Moongates are mystical portals that you may find in the land. This will try to find the nearest one to you.
-
-**MOTD** – This will display the message of the day from the server administrator.
-
-**Quests** – You will get some quests that will be recorded here for reference. Some milestones will also be shown. Not all quests will be displayed here, however, as some may be with the item that started the quest, or in the QUEST gump.
-
-**Quick Bar** – This is a handy icon bar that gives you quick and easy access to common functions. You can customize it.
-
-**Reagent Bar** – Reagents are ingredients for potions and spells. This bar is customizable and allows you to track how many you have of each.
-
-**Settings** – There are many custom settings for your character here. Each setting has an information window you can open to see what the setting does.
-
-**Skill List** – This is an alternate listing of skills you can use to monitor your character's progression.
-
-**Statistics** – This is general server statistics.
-
-**Stuck in World** – Sometimes you may have an issue where you are physically stuck and cannot move. You could fall between a mountain, tree and rock. Or you are on an island. This can free you from such a fate.
-
-**Version** – This is a log of updates that were applied to the game.
-
-**Wealth Bar** – This information bar will do its best to show you your current wealth from both your bag and bank box.
-
-**Weapon Abilities** – When your character gets skilled with weapons, they have access to special abilities with such weapons. This option will open that icon bar to activate these maneuvers.
+Change log
+:	A multi-page history of all recorded changes per Release
 
 ### Client Configuration Button
 The OPTIONS button will open settings for the behavior of the game client.

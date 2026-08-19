@@ -74,6 +74,7 @@ plugins:
 
 markdown_extensions:
   - attr_list
+  - def_list
   - admonition
   - md_in_html
   - toc:
