@@ -1,0 +1,82 @@
+.chip {
+	display: inline-block;
+	color: white;
+	border-radius: 10px;
+	font-size: 0.75rem;
+	padding: 0.125rem 0.25rem;
+	/* border: solid 1px; */
+}
+
+
+.chip-note {
+    border-color: #448aff;
+    background-color: #448aff1a;
+	color: #448aff;
+}
+
+
+.chip-abstract {
+    border-color: #00b0ff;
+    background-color: #00b0ff1a;
+    color: #00b0ff;
+}
+
+.chip-info {
+    border-color: #00b8d4;
+    background-color: #00b8d41a;
+    color: #00b8d4;
+}
+
+.chip-tip {
+    border-color: #00bfa5;
+    background-color: #00bfa51a;
+    color: #00bfa5;
+}
+
+.chip-success {
+    border-color: #00c853;
+    background-color: #00c8531a;
+    color: #00c853;
+}
+
+.chip-question {
+    border-color: #64dd17;
+    background-color: #64dd171a;
+    color: #64dd17;
+}
+
+.chip-warning {
+    border-color: #ff9100;
+    background-color: #ff91001a;
+    color: #ff9100;
+}
+
+.chip-failure {
+    border-color: #ff5252;
+    background-color: #ff52521a;
+    color: #ff5252;
+}
+
+.chip-danger {
+    border-color: #ff1744;
+    background-color: #ff17441a;
+    color: #ff1744;
+}
+
+.chip-bug {
+    border-color: #f50057;
+    background-color: #f500571a;
+    color: #f50057;
+}
+
+.chip-example {
+    border-color: #7c4dff;
+    background-color: #7c4dff1a;
+    color: #7c4dff;
+}
+
+.chip-quote {
+    border-color: #9e9e9e;
+    background-color: #9e9e9e1a;;
+    color: #9e9e9e
+}

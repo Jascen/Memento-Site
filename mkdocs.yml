@@ -21,6 +21,9 @@ extra:
     - icon: fontawesome/brands/github
       link: *github_url
 
+extra_css:
+  - assets/stylesheets/chips.css
+
 theme:
   name: material
   custom_dir: docs/overrides
