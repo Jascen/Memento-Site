@@ -112,6 +112,8 @@ nav:
   - Player Guide:
     - Welcome: guide/welcome.md
     - Gameplay Basics: guide/basics.md
+    - Your Character:
+      - Attributes: guide/attributes.md
     - Town: guide/town.md
     - The Art of Living: guide/art-of-living.md
     - Playing the Game: guide/playing-the-game.md
