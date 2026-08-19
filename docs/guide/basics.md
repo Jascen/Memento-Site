@@ -142,7 +142,7 @@ The GUILD button either lets you start a guild or manage a guild you lead.
 ### Combat Mode Button
 The PEACE/WAR button is a toggle where you are either non-combative, or ready for combat. The Tab key is a default toggle for this.
 
-### Status Gump button
+### Status Gump Button
 The STATUS button will open the character information window as discussed earlier.
 
 ## Statistics
