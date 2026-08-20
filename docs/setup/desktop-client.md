@@ -42,4 +42,4 @@
 	- *Note*: The `UO Directory` should be pointing to the unzipped `Data Files` folder
 
 ## Server Information
---8<-- "docs/setup/online-server-info.md"
+--8<-- "docs/setup/_online-server-info.md"

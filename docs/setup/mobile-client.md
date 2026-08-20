@@ -10,7 +10,7 @@ Ultima: Memento keeps Mobile users in mind when designing interfaces.
 - [MobileUO on the iOS App Store](https://apps.apple.com/us/app/mobileuo/id1511721667)
 
 ## Server Information
---8<-- "docs/setup/online-server-info.md"
+--8<-- "docs/setup/_online-server-info.md"
 - File Download Server Address:
 ```
 github.com/Jascen/ultima-memento-assets/releases/download/data-files/data-files.zip
