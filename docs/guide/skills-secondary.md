@@ -36,7 +36,7 @@ The following skills <u>will not be counted</u> against your character's total s
 	- [Tinkering](#tinkering) - craft your own tools
 
 ## Bowcrafting
-!!! info "Old name: Bowcraft & Fletching"
+!!! info "Classic name: Bowcraft & Fletching"
 
 *Combat*{ .chip .chip-warning }
 *Craft*{ .chip .chip-note }
@@ -79,7 +79,7 @@ The following skills <u>will not be counted</u> against your character's total s
 	- [Tinkering](#tinkering) - craft your own tools
 
 ## Forensics
-!!! info "Old name: Forensic Evaluation"
+!!! info "Classic name: Forensic Evaluation"
 
 *Craft*{ .chip .chip-note }
 *Gather*{ .chip .chip-quote }
