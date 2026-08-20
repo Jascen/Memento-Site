@@ -114,6 +114,8 @@ nav:
     - Gameplay Basics: guide/basics.md
     - Your Character:
       - Attributes: guide/attributes.md
+      - Primary Skills: guide/skills-primary.md
+      - Secondary Skills: guide/skills-secondary.md
     - Town: guide/town.md
     - The Art of Living: guide/art-of-living.md
     - Playing the Game: guide/playing-the-game.md
