@@ -1,7 +1,9 @@
 # Secondary Skills
-In an effort to make resource *Gathering* and *Crafting* skills more accessible, Memento has created *Secondary* Skills.
+In an effort to make resource *Gathering* and *Crafting* skills more accessible, Memento has created *Secondary* Skills. The following skills <u>will not be counted</u> against your character's total skill cap.
 
-The following skills <u>will not be counted</u> against your character's total skill cap:
+--8<-- "docs/guide/_tags.md"
+
+---
 
 ## Alchemy
 *Combat*{ .chip .chip-warning }
