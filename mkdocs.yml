@@ -128,7 +128,6 @@ nav:
       - Ships: guide/ships.md
     - Conclusion: guide/conclusion.md
     - Appendix:
-      - Skill Descriptions: guide/appendix-skill-descriptions.md
       - Item Properties: guide/appendix-item-properties.md
       - Game Clients: guide/appendix-game-clients.md
   - Troubleshooting:
