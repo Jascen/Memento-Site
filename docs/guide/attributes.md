@@ -1,11 +1,14 @@
 # Character Attributes
 There are three primary attributes that have various impacts on your character:
 
-**Strength** governs how much you can carry, how much damage you can do in combat, and which weapons and armor you can equip. This also has a direct correlation with your hit points. Hit points determine how much damage you can take before death. Your strength affects this value. There are various methods of healing that you must discover.
+**Strength**
+:	Governs how much you can carry, how much damage you can do in combat, and which weapons and armor you can equip. This also has a direct correlation with your hit points. Hit points determine how much damage you can take before death. Your strength affects this value. There are various methods of healing that you must discover.
 
-**Dexterity** determines how quickly you react and directly correlates to your stamina. Stamina determines how long you can keep moving or fighting before getting tired. Some potions, or simply resting, will replenish your stamina.
+**Dexterity**
+:	Determines how quickly you react and directly correlates to your stamina. Stamina determines how long you can keep moving or fighting before getting tired. Some potions, or simply resting, will replenish your stamina.
 
-**Intelligence** affects many skills, especially in the categories of crafting and wizardry. This also has a direct correlation with your mana. Mana is your magical aptitude, and it is derived from your intelligence. It also is sometimes used by warriors to perform some feats of battle.
+**Intelligence**
+:	Affects many skills, especially in the categories of crafting and wizardry. This also has a direct correlation with your mana. Mana is your magical aptitude, and it is derived from your intelligence. It also is sometimes used by warriors to perform some feats of battle.
 
 
 ![A player's tooltip](../assets/images/basics-tooltip-figure-figure.png)
