@@ -377,7 +377,7 @@ Most skills are considered *Primary* skills. The following skills <u>will be cou
 	- [Stealth](#stealth) - move while hidden
 
 ### Psychology
-!!! info "Classic name: Evaluate Intelligence"
+!!! info "Classic name: Evaluating Intelligence"
 
 *Combat*{ .chip .chip-warning }
 *Magic*{ .chip .chip-example }
