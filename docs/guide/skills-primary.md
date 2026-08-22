@@ -116,6 +116,7 @@ Most skills are considered *Primary* skills. The following skills <u>will be cou
 - Use on enemies to determine their strength and dexterity
 - Raise naturally while you fight with a weapon and heal with bandages
 - Increase the amount of damage your weapons do
+- Combine with [Psychology](#psychology) to defend with your hands
 - Related
 	- [Healing](#healing) - extra healing and bandage thresholds to cure poison and even resurrect players
 	- [Psychology](#psychology) - evaluates mental stats instead of physical ones
@@ -387,6 +388,7 @@ Most skills are considered *Primary* skills. The following skills <u>will be cou
 	- *Jester* class
 	- *Magery* skill
 - Used to determine success rate of *Jedi* and *Syth* spells
+- Combine with [Anatomy](#anatomy) to defend with your hands
 - Related
 	- [Begging](#begging) - pre-req for *Jester* class
 	- [Meditation](#meditation) - related mana-focused skill
