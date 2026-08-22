@@ -89,6 +89,8 @@ In an effort to make resource *Gathering* and *Crafting* skills more accessible,
 *Magic*{ .chip .chip-example }
 *Pet*{ .chip .chip-bug }
 
+!!! tip "A skinning knife can be used without being equipped. If you do equip it, it will automatically carve corpses you loot."
+
 - Determine who has interacted with a corpse or container by using this skill on it
 - Stitch bones into impenetrable armors
 - Dig up graves to uncover treasure and bones to craft with, but watch out for the law!
@@ -125,6 +127,8 @@ In an effort to make resource *Gathering* and *Crafting* skills more accessible,
 *Combat*{ .chip .chip-warning }
 *Gather*{ .chip .chip-quote }
 
+--8<-- "docs/guide/_tip_smart-targeting.md"
+
 !!! tip "Some woods can only be mined in certain lands and regions"
 
 - Use an axe and target trees to harvest logs
@@ -138,6 +142,8 @@ In an effort to make resource *Gathering* and *Crafting* skills more accessible,
 ## Mining
 *Combat*{ .chip .chip-warning }
 *Gather*{ .chip .chip-quote }
+
+--8<-- "docs/guide/_tip_smart-targeting.md"
 
 !!! tip "Some ores can only be mined in certain lands and regions"
 
@@ -156,7 +162,10 @@ In an effort to make resource *Gathering* and *Crafting* skills more accessible,
 *Craft*{ .chip .chip-note }
 *Gold*{ .chip .chip-question }
 
-!!! tip "It is rare to find cloth in the wild. Try buying it from vendors instead."
+--8<-- "docs/guide/_tip_smart-targeting.md"
+
+!!! tip "Check vendor stock!"
+	It is rare to find cloth in the wild. Tailors and Weavers can sell all types of cloth. Tanners can carry all types of leather.
 
 - Craft different types of leather armor
 - Sew using different fabrics to create clothing with magical attributes
