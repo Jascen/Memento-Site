@@ -461,7 +461,8 @@ Most skills are considered *Primary* skills. The following skills <u>will be cou
 	- Fishing nets
 - Related
 	- [Cartography](#cartography) - alternate way to find treasure
-	- [Cooking](#cooking) - fry up your fish
+	- [Cooking](skills-secondary.md#cooking) - fry up your fish
+
 	- [Marksmanship](#marksmanship)
 	- [Tracking](#tracking) - locate rare sea creatures
 
