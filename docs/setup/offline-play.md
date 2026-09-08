@@ -8,7 +8,7 @@ Ultima: Memento follows suit with it's predecessors; it is an open source projec
 	The live-hosted server runs the code directly from the GitHub, but it is generally recommended to avoid doing this. Instead, to ensure optimal stability and compatibility, only the [latest GitHub Release]({{github_url}}/releases/latest) should be downloaded and used for playing.
 
 ## Fresh Install
-1. Download the attached `Ultima-Memento-Server.zip`
+1. Download the attached `Ultima-Memento-Server.zip` from the [latest GitHub Release]({{github_url}}/releases/latest)
 1. Unzip to `C:\Ultima-Memento\Server`
 	- Alternatively, you may install it whereever you wish
 1. If necessary (non-Windows users), compile the EXE (see [README]({{github_url}}/tree/main?tab=readme-ov-file#running-locally))
