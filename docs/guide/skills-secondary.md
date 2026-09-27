@@ -97,9 +97,9 @@ In an effort to make resource *Gathering* and *Crafting* skills more accessible,
 - Increase yield of raw resources when carving creatures
 - Assemble the creature of a well known scientist
 - Tools
-	- Undertaker tools (can only purchase at this time)
 	- Grave shovel
 	- Skinning knife
+	- Undertaker tools
 	- Witch's cauldron
 - Related
 	- [Blacksmithing](#blacksmithing) - generate more gem blocks from elementals
