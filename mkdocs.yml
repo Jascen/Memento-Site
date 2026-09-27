@@ -116,6 +116,7 @@ nav:
     - Gameplay Basics: guide/basics.md
     - Your Character:
       - Attributes: guide/attributes.md
+      - Template: guide/templates.md
       - Primary Skills: guide/skills-primary.md
       - Secondary Skills: guide/skills-secondary.md
     - Town: guide/town.md
