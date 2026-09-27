@@ -426,6 +426,8 @@ Most skills are considered *Primary* skills. The following skills <u>will be cou
 - Increase the effectiveness of druidic potions and bandages when healing pets
 - Increase pet obedience
 - Pair with [Veterinary](#veterinary) for extra benefits
+- Tools
+	- Druid's cauldron
 - Related
 	- [Healing](#healing) - alternative method to cure and heal players
 	- [Herding](#herding) - more pets in the field and faster pet leveling
