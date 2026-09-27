@@ -105,6 +105,7 @@ nav:
       - Mobile: setup/mobile-client.md
     - Offline Play: setup/offline-play.md
   - Features:
+    - Frequently Asked Questions: features/frequently-asked.md
     - New Game+:
       - Avatar's Ascent: features/avatars-ascent.md
       - Temptations: features/temptations.md
